@@ -1,0 +1,15 @@
+{
+  "type": "ultimateupgrade:void_assembler",
+  "input": {
+    "item": "ultimateupgrade:core_of_the_void"
+  },
+  "modifiers": [
+    {
+      "item": "minecraft:soul_soil"
+    }
+  ],
+  "output": {
+    "item": "ultimateupgrade:soul"
+  },
+  "keepNbt": false
+}

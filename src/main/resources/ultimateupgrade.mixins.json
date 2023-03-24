@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "material.ultimate.upgrade.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BowItemMixin",
+    "CraftingTableBlockMixin",
+    "LivingEntityMixin",
+    "PersistentProjectileEntityMixin",
+    "PlayerEntityMixin"
+  ],
+  "client": [
+    "MouseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

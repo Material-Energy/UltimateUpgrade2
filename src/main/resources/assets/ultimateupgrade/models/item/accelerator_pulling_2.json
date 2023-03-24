@@ -1,0 +1,6 @@
+{
+  "parent": "ultimateupgrade:item/accelerator",
+  "textures": {
+    "layer0": "ultimateupgrade:item/accelerator_pulling_2"
+  }
+}

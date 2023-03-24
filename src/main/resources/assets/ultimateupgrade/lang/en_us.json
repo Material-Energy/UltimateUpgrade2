@@ -1,0 +1,9 @@
+{
+  "item.ultimateupgrade.core_of_the_void": "Core of the Void",
+  "item.ultiamteupgrade.void_assembler": "Void Assembler",
+  "item.ultimateupgrade.soul_shard": "Soul Shard",
+
+  "tooltip.ultimateupgrade.soul_shard.0": "Melee",
+  "tooltip.ultimateupgrade.soul_shard.1": "Scout",
+  "tooltip.ultimateupgrade.soul_shard.2": "Ranged"
+}
